@@ -21,6 +21,7 @@ const AddInsult = (props) => {
 
   return (
     <div>
+      <p>Add new insult :</p>
       <input type="text" onChange={handleInput} placeholder="New Insult here" />
       <br />
       <input type="text" onChange={handleInput2} placeholder="From what play" />
