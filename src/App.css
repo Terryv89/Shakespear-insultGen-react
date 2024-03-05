@@ -1,0 +1,19 @@
+.shakespearish-button {
+  font-size: 16px;
+  padding: 10px 20px;
+  background-color: #4caf50; /* Green */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.shakespearish-button:hover {
+  background-color: #45a049;
+}
+
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY6t70BBL3DjpDbqaJXGGkabEAwABsfUtfsa2cGgpWFQ&s);
+}
